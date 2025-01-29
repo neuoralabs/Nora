@@ -1,4 +1,3 @@
-# Hana - An AI Agent Built with Zen
-
+# Hana - An AI Agent Built with Neuora Framework
 ## Overview
-Hana is an AI agent that demonstrates the capabilities of the [Zen Framework](https://github.com/soralabs/zen).
+Hana is an AI agent that demonstrates the capabilities of Neuora Framework.
